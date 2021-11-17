@@ -600,7 +600,7 @@ button {
 
     
 .reverse {
-    background: #FFF;
+    background: #FFF !important;
     transition: 0ms;  
 }
 
